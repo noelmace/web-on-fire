@@ -122,5 +122,14 @@ module.exports = {
     ],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     ['meta', { name: 'twitter:title', content: 'The WoF Show' }],
+    ['script', { src: 'https://www.datadoghq-browser-agent.com/datadog-rum-us.js', type: 'text/javascript' }],
+    [
+      'script',
+      {},
+      `window.DD_RUM && window.DD_RUM.init({
+  clientToken: 'puba613781b40c3d0a178369d349473435f',
+  applicationId: '7036a332-55c7-4eb9-80a3-6a75c731494d',
+});`,
+    ],
   ],
 };
