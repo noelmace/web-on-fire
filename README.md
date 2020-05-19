@@ -1,5 +1,14 @@
 # :fire: The Web is On FIRE :fire:
 
+## :warning: DEPRECATION NOTICE :warning:
+
+**This project has been deprecated in favor of [FullWeb.dev](https://github.com/fullwebdev/fullwebdev)**
+
+- docs and subprojects (i.e. packages) have been migrated to the [fullwebdev/fullwebdev](https://github.com/fullwebdev/fullwebdev) repository
+- submodules are not updated anymore
+
+##
+
 The FIRE safety kit for everyone!
 
 Learn the best new capabilities of the modern web without burning out!
